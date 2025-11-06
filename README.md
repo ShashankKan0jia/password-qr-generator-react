@@ -133,8 +133,7 @@ Markdown
 
 This is a full-stack web application that allows users to generate secure, random passwords and create QR codes. Users can create an account to save their generated passwords or custom data (like Wi-Fi credentials) with a nickname, view their saved data, and delete it.
 
-**Live Demo Link:** [**https://your-site-name.netlify.app**](https://your-site-name.netlify.app)
-_(Replace this with your actual Netlify link!)_
+\*\*Live Demo Link: https://password-qr-generator-shashankkanojia.netlify.app/
 
 ---
 
